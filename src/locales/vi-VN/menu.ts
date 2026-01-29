@@ -5,6 +5,7 @@ export default {
 	'menu.Dashboard': 'Trang chủ',
 	'menu.About': `Giới thiệu ${APP_CONFIG_TIEN_TO_TRUONG.toLowerCase()}`,
 	'menu.GuessNumber': 'Trò chơi đoán số',
+	'menu.TodoList': 'Todo List',
 	'menu.News': 'Tin tức',
 
 	'menu.DanhMuc': 'Danh mục',

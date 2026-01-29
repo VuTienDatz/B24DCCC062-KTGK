@@ -37,6 +37,12 @@
 		icon: 'BulbOutlined',
 	},
 	{
+		path: '/todo-list',
+		name: 'TodoList',
+		component: './TienIch/TodoList',
+		icon: 'CheckSquareOutlined',
+	},
+	{
 		path: '/random-user',
 		name: 'RandomUser',
 		component: './RandomUser',
