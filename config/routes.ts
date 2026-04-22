@@ -1,4 +1,4 @@
-﻿export default [
+export default [
 	{
 		path: '/user',
 		layout: false,
@@ -31,18 +31,6 @@
 		hideInMenu: true,
 	},
 	{
-		path: '/doan-so',
-		name: 'GuessNumber',
-		component: './TienIch/DoanSo',
-		icon: 'BulbOutlined',
-	},
-	{
-		path: '/todo-list',
-		name: 'TodoList',
-		component: './TienIch/TodoList',
-		icon: 'CheckSquareOutlined',
-	},
-	{
 		path: '/random-user',
 		name: 'RandomUser',
 		component: './RandomUser',
@@ -62,6 +50,13 @@
 	// 		},
 	// 	],
 	// },
+
+	{
+		path: '/quan-ly-khoa-hoc',
+		name: 'Quản lý khóa học',
+		component: './QuanLyKhoaHoc',
+		icon: 'BookOutlined',
+	},
 
 	{
 		path: '/notification',
